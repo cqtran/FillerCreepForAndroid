@@ -11,6 +11,6 @@ public class DarkEnergy extends FundamentalStuff {
     }
 
     public String getName() {
-        return "Dark Energy";
+        return "Dark Dark Energy";
     }
 }
